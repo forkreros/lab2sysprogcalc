@@ -1,0 +1,4 @@
+/home/SCAR/sysprog/lab2/calculator/build/CMakeFiles/calculator.dir
+/home/SCAR/sysprog/lab2/calculator/build/CMakeFiles/main.dir
+/home/SCAR/sysprog/lab2/calculator/build/CMakeFiles/edit_cache.dir
+/home/SCAR/sysprog/lab2/calculator/build/CMakeFiles/rebuild_cache.dir
